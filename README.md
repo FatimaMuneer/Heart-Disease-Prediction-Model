@@ -9,7 +9,7 @@ upon the dataset you have.
 Linear Regression allows us to look at the trend of the data and see which factors have the strongest impact on the result. 
 The Project uses Python in a Google Colab environment, relying on libraries like Pandas for data handling and Scikit-learn for building the model.
 
-**Results**
+**Results:**
 To see how well the model performed, I calculated the Mean Squared Error (MSE) and the R2 score. 
 These metrics help show the difference between the model's predictions and the actual results. In the future, 
 Feel free to compare these results with a Logistic Regression model to improve the accuracy of the predictions.
